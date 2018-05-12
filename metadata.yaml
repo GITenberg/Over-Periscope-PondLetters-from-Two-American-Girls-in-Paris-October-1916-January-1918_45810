@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43470'
     url: http://www.gutenberg.org/2009/agents/43470
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45810#Over-Periscope-PondLetters-from-Two-American-Girls-in-Paris-October-1916-January-1918
 gutenberg_issued: '2014-05-29'
 gutenberg_type: Text
 identifiers:
