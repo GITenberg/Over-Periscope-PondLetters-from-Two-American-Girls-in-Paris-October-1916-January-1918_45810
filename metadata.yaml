@@ -1,0 +1,31 @@
+_repo: Over-Periscope-PondLetters-from-Two-American-Girls-in-Paris-October-1916-January-1918_45810
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45810-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Crocker, Marjorie
+    gutenberg_agent_id: '43471'
+    url: http://www.gutenberg.org/2009/agents/43471
+  - agent_name: Root, Esther Sayles
+    gutenberg_agent_id: '43470'
+    url: http://www.gutenberg.org/2009/agents/43470
+description: ''
+gutenberg_issued: '2014-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45810'
+  lccn: '18009275'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcsh 'World War, 1914-1918 -- Hospitals'
+title: 'Over Periscope Pond
+
+  Letters from Two American Girls in Paris October 1916-January 1918'
+url: http://www.gutenberg.org/ebooks/45810
